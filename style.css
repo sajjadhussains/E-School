@@ -1,0 +1,47 @@
+.header-section{
+    background-color: #F0FFF0;
+    width:1440px;
+    height:650px;
+}
+
+.site-logo{
+    height:50px;
+}
+.main-img{
+    width:100%;
+}
+.sign-in-button{
+    background-color:#21B573;
+    padding:12px 28px;
+    border-radius:33px;
+    color:#fff;
+    border:none;
+}
+h6{
+    color:red;
+}
+span{
+    color:#21B573;
+}
+.section-gap{
+    padding-top:100px;
+}
+.card-img-top{
+    width:30%;
+    height:100px;
+    margin:0 auto;
+    padding-top:30px;
+}
+.card-body{
+    margin-bottom:40px;
+    margin-top:15px;
+}
+.card{
+    background-color: #F0FFF0;
+    border:none;
+    align-items:center;
+}
+.card:hover{
+    box-shadow:5px 5px 10px lightgray;
+    background-color:white;
+}
