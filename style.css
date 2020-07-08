@@ -1,9 +1,8 @@
 .header-section{
     background-color: #F0FFF0;
-    width:1440px;
+    width:100%;
     height:650px;
 }
-
 .site-logo{
     height:50px;
 }
@@ -44,4 +43,48 @@ span{
 .card:hover{
     box-shadow:5px 5px 10px lightgray;
     background-color:white;
+}
+.online-heading{
+    padding-bottom:60px;
+    text-align:center;
+}
+.online-img{
+    width:90%;
+    height:250px;
+}
+.card-deck{
+    background-color:#E5E5E5;
+}
+.card-deck .card{
+    background-color:#fff;
+    border:none;
+}
+
+.testimonial-img{
+   width:100%;
+   
+}
+.fourth-section{
+    width:100%;
+    margin-bottom:100px;
+}
+.fourth-section-align{
+    padding-left:30%;
+}
+.last-section{
+    width:100%;
+    height:350px;
+    background-color:#282531;
+    color:white;
+}
+.copyright{
+
+    color:lightgray;
+    background-color:#282531;
+    padding-top:20px;
+    padding-bottom:0px;
+}
+.footer-text p{
+    text-align:center;
+    padding-top:40px;
 }
